@@ -10,7 +10,13 @@
     "packages/*"
   ],
   "devDependencies": {
+    "@commitlint/cli": "^12.1.4",
+    "@commitlint/config-conventional": "^12.1.4",
+    "@commitlint/config-lerna-scopes": "^12.1.4",
+    "commitlint": "^12.1.4",
+    "husky": "^6.0.0",
     "lerna": "^4.0.0",
+    "lerna-changelog": "^1.0.1",
     "rimraf": "^3.0.2",
     "scripty": "^2.0.0"
   },
